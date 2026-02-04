@@ -1,41 +1,13 @@
-# Hi there, I'm [Your Name]! 👋
+# 💫 About Me:
+🔭 I’m currently working on: Developing EduFlow, a unified university management platform, and a plant disease detection system using leaf imagery.<br><br>👯 I’m looking to collaborate on: Open-source projects involving AI/ML applications in healthcare or predictive systems for regional challenges like waterborne disease forecasting.<br><br>🤝 I’m looking for help with: Advanced implementation of Data Structures and optimizing memory allocation in complex C programming projects.<br><br>🌱 I’m currently learning: Python, C++ and Javascript<br><br>💬 Ask me about: C programming, the Schrödinger Equation, or how I built a visualization for Maxwell’s Equations.<br><br>⚡ Fun fact: I once entered a love letter writing competition right in the middle of my CSE studies!
 
-### 👨‍💻 CSE (AIML) Student | C Programmer | AI Enthusiast
 
-I am a Computer Science & Engineering student specializing in **AI & Machine Learning**. I have a strong foundation in **C programming** and **Data Structures**, and I love building systems that solve real-world problems in healthcare and education.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankur_110107) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BTmzgpAwdSCONOcnZtX626w%3D%3D) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ankur1564) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankurdasgupta44@gmail.com) 
 
----
-
-### 🚀 Featured Projects
-
-#### 🎓 **[EduFlow](https://github.com/yourusername/eduflow)**
-_Your Unified Learning Hub_
-* A comprehensive web-based university management platform designed to streamline academic workflows.
-* **Focus:** Web Development, Database Management.
-
-#### 🌿 **Plant Disease Detection**
-* An AI model capable of identifying plant diseases from leaf imagery to assist in agricultural diagnostics.
-* **Focus:** Computer Vision, Image Processing.
-
-#### 💧 **Waterborne Disease Prediction System**
-* A predictive system specifically tailored for the Northeastern India region to analyze and forecast waterborne disease outbreaks.
-* **Focus:** Data Analysis, Predictive Modeling.
-
----
-
-### 🛠 Languages & Tools
-
-* **Core:** C (Pointers, Memory Management), Data Structures & Algorithms
-* **Domain:** Artificial Intelligence, Machine Learning
-* **Math:** Linear Algebra (Vector Spaces), Probability
-
----
-
-### ⚡ Currently Learning
-I am currently diving deeper into Python along with Backend stuff.
-
----
-
-### 📫 Connect with Me
-* [LinkedIn](in/ankur-dasgupta-469643367)
-* [Email](ankurdasgupta44@gmail.com)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bytesbyankur&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bytesbyankur&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bytesbyankur&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
